@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+launcher_config.json
+_make_shortcut.ps1
+*.lnk
